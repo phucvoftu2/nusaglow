@@ -1,0 +1,16 @@
+# Notebook environment
+jupyterlab
+ipykernel
+
+# Data processing and Excel files
+numpy
+pandas
+openpyxl
+
+# Visualization
+matplotlib
+seaborn
+
+# Statistics and machine learning
+scipy
+scikit-learn
